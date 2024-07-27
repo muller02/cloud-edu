@@ -8,7 +8,7 @@ env:
   AWS_REGION: us-east-1
   S3BUCKET: codedeploystack-webappdeploymentbucket-yyjyucjudznc
 
-~
+
 jobs:
   build:
     name: Build and Package
